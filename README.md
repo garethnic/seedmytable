@@ -1,6 +1,6 @@
 # SeedMyTable
 
-This package creates a solid `DatabaseSeeder.php` file.
+This package creates a solid Laravel `DatabaseSeeder.php` file.
 
 ## Install
 

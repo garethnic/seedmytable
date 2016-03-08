@@ -4,7 +4,8 @@
     "description": "Create a solid Laravel database seeder file",
     "keywords": [
         "garethnic",
-        "seedmytable"
+        "seedmytable",
+        "laravel"
     ],
     "homepage": "https://github.com/garethnic/seedmytable",
     "license": "MIT",
