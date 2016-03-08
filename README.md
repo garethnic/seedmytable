@@ -7,7 +7,7 @@ This package creates a solid Laravel `DatabaseSeeder.php` file.
 Add to your `composer.json`:
 
 ``` bash
-garethnic/seedmytable": "dev-master"
+"garethnic/seedmytable": "dev-master"
 ```
 
 Add the garethnic\ServiceProvider to your config/app.php providers array:
