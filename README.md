@@ -16,8 +16,6 @@ Add the garethnic\ServiceProvider to your config/app.php providers array:
 garethnic\seedmytable\seedmytableServiceProvider::class,
 ```
 
-## Usage
-
 ``` bash
 $ vendor:publish --force
 ```
