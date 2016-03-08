@@ -10,6 +10,12 @@ Via Composer
 $ composer require garethnic/seedmytable
 ```
 
+Add the garethnic\ServiceProvider to your config/app.php providers array:
+
+``` php
+garethnic\seedmytable\seedmytableServiceProvider::class,
+```
+
 ## Usage
 
 ``` bash
