@@ -16,6 +16,8 @@ Add the garethnic\ServiceProvider to your config/app.php providers array:
 garethnic\seedmytable\seedmytableServiceProvider::class,
 ```
 
+Then run the following command to copy over the `DatabaseSeeder.php` file.
+
 ``` bash
 $ vendor:publish --force
 ```
